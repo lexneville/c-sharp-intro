@@ -1,0 +1,11 @@
+/Users/codenation/Documents/mastersWork/dotnet/c-sharp/polymorphism/bin/Debug/netcoreapp3.0/polymorphism
+/Users/codenation/Documents/mastersWork/dotnet/c-sharp/polymorphism/bin/Debug/netcoreapp3.0/polymorphism.deps.json
+/Users/codenation/Documents/mastersWork/dotnet/c-sharp/polymorphism/bin/Debug/netcoreapp3.0/polymorphism.runtimeconfig.json
+/Users/codenation/Documents/mastersWork/dotnet/c-sharp/polymorphism/bin/Debug/netcoreapp3.0/polymorphism.runtimeconfig.dev.json
+/Users/codenation/Documents/mastersWork/dotnet/c-sharp/polymorphism/bin/Debug/netcoreapp3.0/polymorphism.dll
+/Users/codenation/Documents/mastersWork/dotnet/c-sharp/polymorphism/bin/Debug/netcoreapp3.0/polymorphism.pdb
+/Users/codenation/Documents/mastersWork/dotnet/c-sharp/polymorphism/obj/Debug/netcoreapp3.0/polymorphism.csprojAssemblyReference.cache
+/Users/codenation/Documents/mastersWork/dotnet/c-sharp/polymorphism/obj/Debug/netcoreapp3.0/polymorphism.AssemblyInfoInputs.cache
+/Users/codenation/Documents/mastersWork/dotnet/c-sharp/polymorphism/obj/Debug/netcoreapp3.0/polymorphism.AssemblyInfo.cs
+/Users/codenation/Documents/mastersWork/dotnet/c-sharp/polymorphism/obj/Debug/netcoreapp3.0/polymorphism.dll
+/Users/codenation/Documents/mastersWork/dotnet/c-sharp/polymorphism/obj/Debug/netcoreapp3.0/polymorphism.pdb
